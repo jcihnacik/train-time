@@ -1,0 +1,8 @@
+ .card-body a {
+    word-break: break-all;
+    width: 100%;
+  }
+  
+  .articleHeadline {
+    line-height: 1.5;
+  }
