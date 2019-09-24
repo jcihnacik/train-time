@@ -1,8 +1,30 @@
- .card-body a {
+.card-body a {
     word-break: break-all;
     width: 100%;
   }
+
+#jumbotron {
+  font-family: 'DM Serif Display', serif;
+  background-color: maroon;
+  color: white;
+  letter-spacing: 12px;
   
-  .articleHeadline {
-    line-height: 1.5;
-  }
+}
+  
+
+h1, h4 {
+  text-align: center;
+  margin: auto;
+  text-transform: uppercase;
+}
+
+th {
+  text-transform: uppercase;
+  
+}
+
+h4 { 
+  font-family: 'Hanuman', serif;
+}
+/* https://tobiasahlin.com/moving-letters/
+ */
